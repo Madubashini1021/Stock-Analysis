@@ -9,14 +9,14 @@ The primary objective of this stock market analysis is to gain actionable insigh
 - Assess the potential risk of investment for each company by calculating Value at Risk.
 - Predict stocks prices for next day.
 
-#Tools Used
+# Tools Used
 - Python (Jupyter Notebook)
 - PySpark
 - Pandas, NumPy, Scikit-learn
 - Matplotlib, Seaborn
 - Random Forest Regressor
 
-#Key Features
+# Key Features
 - Daily return and volatility metrics
 - Moving average smoothing
 - Value at Risk calculation
